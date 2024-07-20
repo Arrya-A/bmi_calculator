@@ -1,0 +1,25 @@
+p{
+    font-size: larger;
+}
+.box{
+    background-color: rgba(255, 255, 255, 0.807);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.result_box{
+    background-color: rgba(255, 255, 255, 0.807);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.underweight {
+    color: orange;
+  }
+  
+  .obese {
+    color: rgb(195, 18, 18);
+  }
+  
+  .overweight{
+    color: orangered;
+  }
+  .normal {
+    color: green;
+  }
